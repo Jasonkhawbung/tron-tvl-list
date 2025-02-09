@@ -79,9 +79,8 @@ DEX
 ##### Oracle used (WINkLink/Chainlink/Band/API3/TWAP or any other that you are using):
 WINkLink
 
-##### forkedFrom (Does your project originate from another project):
+##### forkedFrom (Does your project originate from another project):It come from Tronscan
 
 ##### methodology (what is being counted as tvl, how is tvl being calculated):
-All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are not included in the TVL.
-
+All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are not included in the TVL= $21,138,881,069
 ```
