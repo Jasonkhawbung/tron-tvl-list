@@ -82,6 +82,6 @@ WINkLink
 ##### forkedFrom (Does your project originate from another project):
 
 ##### methodology (what is being counted as tvl, how is tvl being calculated):
-All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are not included in the TVL.
+All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are not included in the TVL.$128,138,881,069
 
 ```
